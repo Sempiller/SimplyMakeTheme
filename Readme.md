@@ -2,6 +2,10 @@
 
 Well, you can just make sure you making correct.
 
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -23,10 +27,12 @@ So to show name on BetterDiscord, paste this code and edit.
  * @BDEditor BasicBackground
 */
 ```
-
+<br>
+<br>
 <br>
 <br>
 # Font
+
 Simply go to any font raw for css and paste!
 
 ```css
