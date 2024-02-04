@@ -23,3 +23,12 @@ So to show name on BetterDiscord, paste this code and edit.
  * @BDEditor BasicBackground
 */
 ```
+
+
+
+#Font
+Simply go to any font raw for css and paste!
+
+```css
+@import url('Paste here');
+```
