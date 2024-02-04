@@ -31,7 +31,8 @@ So to show name on BetterDiscord, paste this code and edit.
 <br>
 <br>
 <br>
-# Font
+
+# Fonts
 
 Simply go to any font raw for css and paste!
 
