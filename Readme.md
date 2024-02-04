@@ -49,6 +49,6 @@ Simply go to any font raw for css and paste!
 # Important!
 
 Paste this under font! (Credits To Devil Bro)
-```
+```css
 @import url('https://raw.githubusercontent.com/Sempiller/SimplyMakeTheme/main/Theme.css');
 ```
