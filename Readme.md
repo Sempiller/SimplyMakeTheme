@@ -39,3 +39,16 @@ Simply go to any font raw for css and paste!
 ```css
 @import url('Paste here');
 ```
+
+<br>
+<br>
+<br>
+<br>
+
+
+# Important!
+
+Paste this under font! (Credits To Devil Bro)
+```
+@import url('https://raw.githubusercontent.com/Sempiller/SimplyMakeTheme/main/Theme.css');
+```
