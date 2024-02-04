@@ -9,7 +9,7 @@ Well, you can just make sure you making correct.
 
 So to show name on BetterDiscord, paste this code and edit.
 
-```
+```css
 /**
  * @name (Your Themes Name)
  * @author (Your Name [Optional])
